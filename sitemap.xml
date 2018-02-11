@@ -3,34 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://medildley.github.io/post/first/</loc>
-    <lastmod>2018-02-08T16:40:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://medildley.github.io/about/</loc>
-    <lastmod>2018-02-08T16:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://medildley.github.io/categories/</loc>
+    <loc>https://medildley.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://medildley.github.io/post/</loc>
-    <lastmod>2018-02-08T16:40:03+08:00</lastmod>
+    <loc>https://medildley.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://medildley.github.io/</loc>
-    <lastmod>2018-02-08T16:40:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://medildley.github.io/tags/</loc>
+    <loc>https://medildley.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
