@@ -14,12 +14,21 @@
     
     <item>
       <title>First</title>
-      <link>https://medildley.github.io/post/first/</link>
+      <link>https://medildley.github.io/blog/2018/02/08/first/</link>
       <pubDate>Thu, 08 Feb 2018 16:40:03 +0800</pubDate>
       
-      <guid>https://medildley.github.io/post/first/</guid>
+      <guid>https://medildley.github.io/blog/2018/02/08/first/</guid>
       <description> 物品清单 杂项
  台灯（看空间吧） 床单 一床蚕丝被 洗发水 沐浴露 牙刷 洗面奶（重新买？） 毛巾 浴巾  </description>
+    </item>
+    
+    <item>
+      <title>Lacan 阅读笔记</title>
+      <link>https://medildley.github.io/blog/2018/02/08/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 08 Feb 2018 16:40:03 +0800</pubDate>
+      
+      <guid>https://medildley.github.io/blog/2018/02/08/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
+      <description>Lacan 阅读笔记 镜像、结构、哲学</description>
     </item>
     
   </channel>
