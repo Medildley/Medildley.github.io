@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seven&#39;s Blog</title>
+    <title>Seven&#39;s site</title>
     <link>https://medildley.github.io/</link>
-    <description>Recent content on Seven&#39;s Blog</description>
+    <description>Recent content on Seven&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>All rights reserved - 2018</copyright>
+    <language>zh-CN</language>
     <lastBuildDate>Thu, 08 Feb 2018 16:40:03 +0800</lastBuildDate>
     
 	<atom:link href="https://medildley.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -14,20 +13,19 @@
     
     <item>
       <title>First</title>
-      <link>https://medildley.github.io/blog/2018/02/08/first/</link>
+      <link>https://medildley.github.io/post/first/</link>
       <pubDate>Thu, 08 Feb 2018 16:40:03 +0800</pubDate>
       
-      <guid>https://medildley.github.io/blog/2018/02/08/first/</guid>
-      <description> 物品清单 杂项
- 台灯（看空间吧） 床单 一床蚕丝被 洗发水 沐浴露 牙刷 洗面奶（重新买？） 毛巾 浴巾  </description>
+      <guid>https://medildley.github.io/post/first/</guid>
+      <description>物品清单 杂项 台灯（看空间吧） 床单 一床蚕丝被 洗发水 沐浴露 牙刷 洗面奶（重新买？） 毛巾 浴巾</description>
     </item>
     
     <item>
       <title>Lacan 阅读笔记</title>
-      <link>https://medildley.github.io/blog/2018/02/08/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+      <link>https://medildley.github.io/post/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Thu, 08 Feb 2018 16:40:03 +0800</pubDate>
       
-      <guid>https://medildley.github.io/blog/2018/02/08/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
+      <guid>https://medildley.github.io/post/lacan-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
       <description>Lacan 阅读笔记 镜像、结构、哲学</description>
     </item>
     
